@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Gabi244/GabrielScripts/main/gabrielscripts.lua", true))()
